@@ -5,3 +5,4 @@ if original_value==rev:
     print("The word is a palindrome")
 else:
     print("Its not a palindrome")
+    #added
